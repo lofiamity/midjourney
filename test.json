@@ -1,0 +1,68 @@
+[
+    {
+        "id": "3a2831fe-24b5-4b48-8976-00fcbfbc70f4",
+        "parent_grid": 2,
+        "parent_id": "2e8d8941-97f5-4cb3-8733-e4d384f3b889",
+        "image_0": "https://cdn.midjourney.com/2e8d8941-97f5-4cb3-8733-e4d384f3b889/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/2e8d8941-97f5-4cb3-8733-e4d384f3b889/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/2e8d8941-97f5-4cb3-8733-e4d384f3b889/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/2e8d8941-97f5-4cb3-8733-e4d384f3b889/0_3_384_N.webp",
+        "job_type": "v6_virtual_upsample",
+        "event_type": "diffusion_upsample_v6_virtual"
+    },
+    {
+        "id": "4cf3aac3-9cf2-4df2-bb6f-daca96b0d297",
+        "parent_grid": 1,
+        "parent_id": "09461c00-b575-409e-ae8b-cee6b3063959",
+        "image_0": "https://cdn.midjourney.com/09461c00-b575-409e-ae8b-cee6b3063959/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/09461c00-b575-409e-ae8b-cee6b3063959/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/09461c00-b575-409e-ae8b-cee6b3063959/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/09461c00-b575-409e-ae8b-cee6b3063959/0_3_384_N.webp",
+        "job_type": "v6_upscaler_2x_subtle",
+        "event_type": "diffusion_upsample_v6_2x_subtle"
+    },
+    {
+        "id": "7777ca64-4bda-4ef0-8962-b232747ac789",
+        "parent_grid": 1,
+        "parent_id": "3792e5e0-9466-46f2-aca5-89616e9e9b8a",
+        "image_0": "https://cdn.midjourney.com/3792e5e0-9466-46f2-aca5-89616e9e9b8a/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/3792e5e0-9466-46f2-aca5-89616e9e9b8a/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/3792e5e0-9466-46f2-aca5-89616e9e9b8a/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/3792e5e0-9466-46f2-aca5-89616e9e9b8a/0_3_384_N.webp",
+        "job_type": "v6_virtual_upsample",
+        "event_type": "diffusion_upsample_v6_virtual"
+    },
+    {
+        "id": "d8ebbec9-2f25-42d6-9554-6c10d3cccbeb",
+        "parent_grid": 2,
+        "parent_id": "cf61c763-829a-4b0e-9def-17a2a848d375",
+        "image_0": "https://cdn.midjourney.com/cf61c763-829a-4b0e-9def-17a2a848d375/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/cf61c763-829a-4b0e-9def-17a2a848d375/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/cf61c763-829a-4b0e-9def-17a2a848d375/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/cf61c763-829a-4b0e-9def-17a2a848d375/0_3_384_N.webp",
+        "job_type": "v6_virtual_upsample",
+        "event_type": "diffusion_upsample_v6_virtual"
+    },
+    {
+        "id": "effd13d9-6097-4d2a-8947-6073cfb7f134",
+        "parent_grid": 3,
+        "parent_id": "ae33d46a-d9c1-424d-9d5d-58266eaa5d7f",
+        "image_0": "https://cdn.midjourney.com/ae33d46a-d9c1-424d-9d5d-58266eaa5d7f/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/ae33d46a-d9c1-424d-9d5d-58266eaa5d7f/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/ae33d46a-d9c1-424d-9d5d-58266eaa5d7f/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/ae33d46a-d9c1-424d-9d5d-58266eaa5d7f/0_3_384_N.webp",
+        "job_type": "v6_virtual_upsample",
+        "event_type": "diffusion_upsample_v6_virtual"
+    },
+    {
+        "id": "fc40dd13-1b3f-4bcc-90e9-c43dc1c2875a",
+        "parent_grid": 0,
+        "parent_id": "9bf2e0ed-6c9f-412e-83ef-33f20f69818a",
+        "image_0": "https://cdn.midjourney.com/9bf2e0ed-6c9f-412e-83ef-33f20f69818a/0_0_384_N.webp",
+        "image_1": "https://cdn.midjourney.com/9bf2e0ed-6c9f-412e-83ef-33f20f69818a/0_1_384_N.webp",
+        "image_2": "https://cdn.midjourney.com/9bf2e0ed-6c9f-412e-83ef-33f20f69818a/0_2_384_N.webp",
+        "image_3": "https://cdn.midjourney.com/9bf2e0ed-6c9f-412e-83ef-33f20f69818a/0_3_384_N.webp",
+        "job_type": "v6_virtual_upsample",
+        "event_type": "diffusion_upsample_v6_virtual"
+    }
+]
