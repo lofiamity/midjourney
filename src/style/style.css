@@ -37,7 +37,14 @@ header {
   padding: 0 24px;
 }
 
-
+.category {
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.category a {
+  margin-bottom: 24px;
+}
 .content {
   text-align: center;
   font-family: "mokoto";
