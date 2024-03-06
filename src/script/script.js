@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const jsonName = urlParams.get('json');
 
     // Menentukan path menuju file JSON berdasarkan parameter JSON
-    const jsonPath = jsonName ? `/${jsonName}.json` : 'explore';
+    const jsonPath = jsonName ? `/${jsonName}.json` : 'midjourney/explore';
 
     fetch(jsonPath)
         .then(response => response.json())
